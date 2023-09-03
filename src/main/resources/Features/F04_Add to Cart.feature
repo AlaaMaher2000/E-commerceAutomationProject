@@ -5,4 +5,4 @@ Feature:this feature will allow users to can add product to the shopping cart
       And  User add the product to the shopping cart
       And  User can navigate to the shopping cart to confirm that the product is added
       Then User can update the quantity from the shopping cart
-
+      hhhh
